@@ -15,9 +15,11 @@ export default function Home() {
         />
         <ol>
           <li>
-            Get started by editing <code>app/page.tsx</code>.
+            Hi my name is Erfan
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>
+            I am training to work with next.js
+          </li>
         </ol>
 
         <div className={styles.ctas}>

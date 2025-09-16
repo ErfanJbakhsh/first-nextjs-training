@@ -5,7 +5,8 @@ export default function page() {
     <>
       <h1>hello world !</h1>
       <Link href="/users">Users</Link>
-      {/* or you can use <a> */}
+      <br />
+      <a href="/users/new">new</a>
     </>
   )
 }
